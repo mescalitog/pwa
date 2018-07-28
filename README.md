@@ -5,7 +5,7 @@ Este es un demo una una aplicacion web progresiva creada por [iTStuff](https://i
 
 ### Demo
 
-Se puede ver la app funcionando en https://itstuff.com.ar/pwa
+Se puede ver la app funcionando en https://pwa.itstuff.com.ar
 
 ### Instalacion
 
