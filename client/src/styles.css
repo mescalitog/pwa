@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import url(https://fonts.googleapis.com/css?family=Roboto:100);
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin-top: 10px;
+}
+
+h1 {
+  font-size: 2em;
+  margin-bottom: 40px;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 400;
+}
